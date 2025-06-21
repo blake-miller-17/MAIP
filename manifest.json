@@ -1,0 +1,10 @@
+{
+    "name": "MAIP",
+    "description": "Manually adjust an IP - V4",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup/maip.html",
+        "default_icon": "images/hello_extensions.png"
+    } 
+}
