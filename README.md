@@ -1,2 +1,2 @@
 # MAIP
-Manually adjust and IP
+Manually adjust an IP
